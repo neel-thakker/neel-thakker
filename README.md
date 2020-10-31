@@ -1,5 +1,5 @@
-![image](./dino.gif)
 ### Opps! its not loading ? I think there might be a connection issue...
+![image](./dino.gif)
 <!--
 ### Hi there 👋
 
