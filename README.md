@@ -1,5 +1,10 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=neel-thakker" alt="neel-thakker" />
+</p>
 ### Opps! its not loading ? I think there might be a connection issue...
 ![image](./dino.gif)
+
+But you can contact me 
 <!--
 ### Hi there 👋
 
