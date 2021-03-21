@@ -16,6 +16,6 @@
 ## Stats
 <hr>
 <div align="center">
-<a><img src="https://github-readme-stats.vercel.app/api?username=neelbavarva&include_all_commits&show_icons=true&theme=tokyonight&hide_border=true" width="455" ></a>
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelbavarva&layout=compact&theme=tokyonight&hide_border=true" width="380" ></a>
+<a><img src="https://github-readme-stats.vercel.app/api?username=neel-thakker&include_all_commits&show_icons=true&theme=tokyonight&hide_border=true" width="455" ></a>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neel-thakker&layout=compact&theme=tokyonight&hide_border=true" width="380" ></a>
 </div>
