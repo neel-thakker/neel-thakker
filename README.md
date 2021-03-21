@@ -1,7 +1,7 @@
 
 <p  align="center"><img src="https://cdn.dribbble.com/users/2279796/screenshots/4829492/_bug.png?compress=1&resize=800x600" alt="Coder GIF" width="500" height="400"></p>
 
-### 🙏 Namaste peeps!! I'm Neel Thakker
+## 🙏 Namaste peeps!! I'm Neel Thakker
 
 - 🔭 I’m currently working on **Competitive Programming**
 - 🌱 I’m also exploring **React Native** 
@@ -14,7 +14,12 @@
 </p>
 
 ## Stats
+<hr>
+
 <div align="center">
-<a><img src="https://github-readme-stats.vercel.app/api?username=neel-thakker&include_all_commits&show_icons=true&theme=tokyonight&hide_border=true" width="455" ></a>
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neel-thakker&layout=compact&theme=tokyonight&hide_border=true" width="380" ></a>
+<a><img src="https://github-readme-stats.vercel.app/api?username=neelbavarva&include_all_commits&show_icons=true&theme=tokyonight&hide_border=true" width="455" ></a>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelbavarva&layout=compact&theme=tokyonight&hide_border=true" width="380" ></a>
+
 </div>
+
+<div align="center">
